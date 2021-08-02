@@ -1,0 +1,12 @@
+6/7 - command line things 
+change permission with chmod
+
+7/7 -modules are when you split code into many files
+12/7 -ctr shift r reload without cache 
+21/7 dependency injection when u use a function as an arguement in
+a tester where the expected will change everytime as it requires a module outside
+of the code e.g. reading writing files (inject reader or writer), asking for use input,api
+26/7 you patch when you want to intercept a call without using dependency injection
+python -m notebook (after m whatever command)
+
+whitespace()

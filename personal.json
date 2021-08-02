@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Alice",
+        "AGATC": "2",
+        "AATG": "8",
+        "TATC": "3",
+        "diabetic": true
+    },
+    {
+        "name": "Bob",
+        "AGATC": "4",
+        "AATG": "1",
+        "TATC": "5",
+        "diabetic": true
+    },
+    {
+        "name": "Charlie",
+        "AGATC": "3",
+        "AATG": "2",
+        "TATC": "5",
+        "diabetic": true
+    }
+]
