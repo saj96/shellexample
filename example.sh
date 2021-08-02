@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 function lazygit() {
     git init
-    git add .
+    git add example.sh
     git commit -a -m "$1"
     git push
 }
